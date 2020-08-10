@@ -42,8 +42,8 @@
         <composite.revision>${project.version}</composite.revision>
         <composite.partition>devops</composite.partition>
         <serverUrl>http://150.136.1.72:7001</serverUrl>
-        <user>dennemag</user>
-        <password>Jolas0608</password>
+        <user>$WLS_USERNAME</user>
+        <password>$WLS_PASSWORD</password>
         <overwrite>true</overwrite>
         <forceDefault>true</forceDefault>
         <regenerateRulebase>false</regenerateRulebase>
