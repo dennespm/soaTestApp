@@ -138,6 +138,14 @@
          <string v=".xml"/>
          <string v=".exm"/>
          <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
+         <string v=".exm"/>
+         <string v=".xml"/>
       </list>
       <list n="excludedUrls">
          <string v="fXSLNonDeployedFiles"/>
@@ -341,6 +349,14 @@
    <hash n="oracle.tip.tools.ide.fabric.addin.SCAContentSetProvider">
       <hash n="sca-content">
          <list n="pattern-filters">
+            <string v="-SCA-INF/classes"/>
+            <string v="+**"/>
+            <string v="-SCA-INF/classes"/>
+            <string v="+**"/>
+            <string v="-SCA-INF/classes"/>
+            <string v="+**"/>
+            <string v="-SCA-INF/classes"/>
+            <string v="+**"/>
             <string v="-SCA-INF/classes"/>
             <string v="+**"/>
             <string v="-SCA-INF/classes"/>
